@@ -67,14 +67,14 @@ const aleatorio = function (min, max) {
 //     }
 // }
 
-let filmes=[
-    {titulo:'Harry Potter',classificacao:12},
-    {titulo:'Os Vigadores',classificacao:14},
-    {titulo:'Rei Leão', classificacao:10},
-    {titulo:'Ninja Assasino', classificacao:18}
-]
-function autorizado(idade){
-    for (let item in filmes){
-        if(filmes[item].classificacao <= idade)
-    }
-}
+// let filmes=[
+//     {titulo:'Harry Potter',classificacao:12},
+//     {titulo:'Os Vigadores',classificacao:14},
+//     {titulo:'Rei Leão', classificacao:10},
+//     {titulo:'Ninja Assasino', classificacao:18}
+// ]
+// function autorizado(idade){
+//     for (let item in filmes){
+//         if(filmes[item].classificacao <= idade)
+//     }
+// }

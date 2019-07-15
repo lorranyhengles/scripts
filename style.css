@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+header{
+    height: 130px;
+    border-bottom: 5px double rebeccapurple;
+    align-items: center;
+   
+}
+header nav{
+    display: flex;
+}
+header nav a{
+    text-decoration: none;
+    font-size: 2rm;
+}
+.fora{
+    background-color: blue;
+}
+.dentro{
+    background-color: blueviolet;
+}
+
